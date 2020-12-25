@@ -1,0 +1,21 @@
+{
+  "name": "notnewline",
+  "version": "1.0.0",
+  "description": "console.log without the newline",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/finngreiter/notnewline.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "newlineless"
+  ],
+  "author": "Felgee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finngreiter/notnewline/issues"
+  },
+  "homepage": "https://github.com/finngreiter/notnewline#readme"
+}
